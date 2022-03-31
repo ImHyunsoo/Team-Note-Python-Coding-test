@@ -56,10 +56,10 @@
 
 
 ### 탐색 (Searching)
-* [순차 탐색 sequential_search python](/sorting/sequential_search.py) / [sequential_search C++](/sorting/sequential_search.cpp)
-* [재귀 함수를 이용한 이진 탐색 RecurBinary python](/sorting/RecurBinary.py) / [RecurBinary C++](/sorting/RecurBinary.cpp)
-* [반복문을 이용한 이진 탐색 whileBinary python](/sorting/whileBinary.py) / [whileBinary C++](/sorting/whileBinary.cpp)
-* [정렬된 배열에서 특정 수의 개수 구하기 countByRange python](/sorting/countByRange.py) / [countByRange C++](/sorting/countByRange.cpp)
+* [순차 탐색 sequential_search python](/searching/sequential_search.py) / [sequential_search C++](/searching/sequential_search.cpp)
+* [재귀 함수를 이용한 이진 탐색 RecurBinary python](/searching/RecurBinary.py) / [RecurBinary C++](/searching/RecurBinary.cpp)
+* [반복문을 이용한 이진 탐색 whileBinary python](/searching/whileBinary.py) / [whileBinary C++](/searching/whileBinary.cpp)
+* [정렬된 배열에서 특정 수의 개수 구하기 countByRange python](/searching/countByRange.py) / [countByRange C++](/searching/countByRange.cpp)
 
 
 ### 다이나믹 프로그래밍 (Dynamic Programming)
@@ -105,7 +105,7 @@
 * [에라토스테네스의 체 EratosthenesSieve python](/etcAlgorithm/EratosthenesSieve.py) / [EratosthenesSieve C++](/etcAlgorithm/EratosthenesSieve.cpp)
 * [투 포인터 2PTpartialContinuousSequence python](/etcAlgorithm/2PTpartialContinuousSequence.py) / [2PTpartialContinuousSequence C++](/etcAlgorithm/2PTpartialContinuousSequence.cpp)
 * [구간 합 빠르게 계산하기 intervalSum python](/etcAlgorithm/intervalSum.py) / [intervalSum C++](/etcAlgorithm/intervalSum.cpp)
-* [트리의 순회 TreeTraversal python](/etcAlgorithm/TreeTraversal.py) / [TreeTraversal C++](/etcAlgorithm/TreeTraversal.cpp)
+* [트리의 순회 TreeTraversal python](/etcAlgorithm/TreeTraversal.py)
 * [순열 permutation python](/etcAlgorithm/permutation.py) / [permutation C++](/etcAlgorithm/permutation.cpp)
 * [조합 Combination python](/etcAlgorithm/permutation.py) / [Combination C++](/etcAlgorithm/Combination.cpp)
 * [바이너리 인덱스 트리BIT, 팬윅 트리 Fenwick Tree BiIndexTree python](/etcAlgorithm/BiIndexTree.py) / [BiIndexTree C++](/etcAlgorithm/BiIndexTree.cpp)
