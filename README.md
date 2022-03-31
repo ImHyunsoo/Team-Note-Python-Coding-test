@@ -82,10 +82,10 @@
 * [우선순위 큐 최소 힙 Heap C++](/shortestRoute/Dijkstra/PriorityQueue/Heap.cpp)
 
 
-### 플로이드 워셜 (Floyd Warshall)
+#### 플로이드 워셜 (Floyd Warshall)
 * [플로이드 워셜, 모든 노드에서 다른 모든 노드까지의 최단 경로를 모두 계산,  FloydWarshall python](/shortestRoute/FloydWarshall/FloydWarshall.py) / [FloydWarshall C++](/shortestRoute/FloydWarshall/FloydWarshall.cpp)
 
-### 벨만 포드 (Bellman Ford)
+#### 벨만 포드 (Bellman Ford)
 * [벨만 보드, 음수 간선이 포함된 그래프에서의 최단 경로 찾기 FloydWarshall python](/shortestRoute/BellmanFord/BellmanFord.py) / [BellmanFord C++](/shortestRoute/BellmanFord/BellmanFord.cpp)
 
 
@@ -96,5 +96,29 @@
 * [서로소 집합을 활용한 사이클 판별 DScycleDetermination python](/etcGraph/DScycleDetermination.py) / [DScycleDetermination C++](/etcGraph/DScycleDetermination.cpp)
 * [위상 정렬 topologySort python](/etcGraph/topologySort.py) / [topologySort C++](/etcGraph/topologySort.cpp)
 
-##### 크루스칼, 신장 트리(그래프에서 모든 노드를 포함하면서 사이클이 존재하지 않는 부분 그래프) (Kruskal)
+#### 크루스칼, 신장 트리(그래프에서 모든 노드를 포함하면서 사이클이 존재하지 않는 부분 그래프) (Kruskal)
 * [크루스칼, 신장트리 Kruskal python](/etcGraph/spanningTree/Kruskal.py) / [Kruskal C++](/etcGraph/spanningTree/Kruskal.cpp)
+
+
+### 기타 알고리즘 (Etc Algorithm)
+* [소수 판별 primeNumDetermination python](/etcAlgorithm/primeNumDetermination.py) / [primeNumDetermination C++](/etcAlgorithm/primeNumDetermination.cpp)
+* [에라토스테네스의 체 EratosthenesSieve python](/etcAlgorithm/EratosthenesSieve.py) / [EratosthenesSieve C++](/etcAlgorithm/EratosthenesSieve.cpp)
+* [투 포인터 2PTpartialContinuousSequence python](/etcAlgorithm/2PTpartialContinuousSequence.py) / [2PTpartialContinuousSequence C++](/etcAlgorithm/2PTpartialContinuousSequence.cpp)
+* [구간 합 빠르게 계산하기 intervalSum python](/etcAlgorithm/intervalSum.py) / [intervalSum C++](/etcAlgorithm/intervalSum.cpp)
+* [트리의 순회 TreeTraversal python](/etcAlgorithm/TreeTraversal.py) / [TreeTraversal C++](/etcAlgorithm/TreeTraversal.cpp)
+* [순열 permutation python](/etcAlgorithm/permutation.py) / [permutation C++](/etcAlgorithm/permutation.cpp)
+* [조합 Combination python](/etcAlgorithm/permutation.py) / [Combination C++](/etcAlgorithm/Combination.cpp)
+* [바이너리 인덱스 트리BIT, 팬윅 트리 Fenwick Tree BiIndexTree python](/etcAlgorithm/BiIndexTree.py) / [BiIndexTree C++](/etcAlgorithm/BiIndexTree.cpp)
+* [최소 공통 조상, 기본(Lowest Common Ancestor, LCA basicLowComAncestor python](/etcAlgorithm/basicLowComAncestor.py) / [basicLowComAncestor C++](/etcAlgorithm/basicLowComAncestor.cpp)
+* [최소 공통 조상, 심화(Lowest Common Ancestor, LCA fastLowComAncestor python](/etcAlgorithm/fastLowComAncestor.py) / [fastLowComAncestor C++](/etcAlgorithm/fastLowComAncestor.cpp)
+
+
+### REST API JSON
+* [파이썬 웹 요청 예제:GET 방식 URI_GET python](/REST_API_JSON/URI_GET.py)
+* [파이썬 웹 요청(ID 포함) 예제:GET 방식 URI_id_GET python](/REST_API_JSON/URI_id_GET.py)
+* [JSON 객체 사용 예제 dic2JSON python](/REST_API_JSON/dic2JSON.py)
+* [JSON 객체 파일 저장 예제 dic2JSONfile python](/REST_API_JSON/dic2JSONfile.py)
+* [REST API를 호출하여 회원정보를 처리하는 예제 ParsingJSON python](/REST_API_JSON/ParsingJSON.py)
+
+
+
