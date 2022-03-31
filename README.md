@@ -43,7 +43,7 @@
 * [BFS, 현재 큐 & 다음 큐, 가독성 좋음 bfsNextQ python](/DFS-BFS/bfsNextQ.py) 
 
 
-### 정렬 Sorting
+### 정렬 (Sorting)
 * [swap python](/sorting/swap.py) / [swap C++](/sorting/swap.py)
 * [표준 라이브러리 정렬 librarySort python](/sorting/librarySort.py) / [librarySort C++](/sorting/librarySort.py)
 * [딕셔너리 키 기준 정렬 keySort python](/sorting/keySort.py) / [keySort C++](/sorting/keySort.py)
@@ -52,6 +52,23 @@
 * [퀵 정렬 quickSort python](/sorting/quickSort.py) / [quickSort C++](/sorting/quickSort.py)
 * [퀵 정렬, 파이썬 장점 살림, 가독성 좋음 quickSort2 python](/sorting/quickSort2.py)
 * [계수 정렬 countingSort python](/sorting/countingSort.py) / [countingSort C++](/sorting/countingSort.py)
+
+
+
+### 탐색 (Searching)
+* [순차 탐색 sequential_search python](/sorting/sequential_search.py) / [sequential_search C++](/sorting/sequential_search.py)
+* [재귀 함수를 이용한 이진 탐색 RecurBinary python](/sorting/RecurBinary.py) / [RecurBinary C++](/sorting/RecurBinary.py)
+* [반복문을 이용한 이진 탐색 whileBinary python](/sorting/whileBinary.py) / [whileBinary C++](/sorting/whileBinary.py)
+* [정렬된 배열에서 특정 수의 개수 구하기 countByRange python](/sorting/countByRange.py) / [countByRange C++](/sorting/countByRange.py)
+
+
+### 다이나믹 프로그래밍 (Dynamic Programming)
+* [피보나치 수열, 재귀 fiboRecur python](/DynamicProgramming/fiboRecur.py) / [fiboRecur C++](/DynamicProgramming/fiboRecur.py)
+* [피보나치 수열, 반복문, 바텀업 BottomUpfibo python](/DynamicProgramming/BottomUpfibo.py) / [BottomUpfibo C++](/DynamicProgramming/BottomUpfibo.py)
+* [피보나치 수열, 다이나믹프로그래밍, 재귀 DfiboRecur python](/DynamicProgramming/DfiboRecur.py) / [DfiboRecur C++](/DynamicProgramming/DfiboRecur.py)
+* [피보나치 수열, 다이나믹 프로그래밍, 재귀 처리과정 DfiboProcess python](/DynamicProgramming/DfiboProcess.py) 
+* [가장 긴 증가하는 부분 수열(Longest Increasing Subsequence, LIS) LISplacingSoldiers python](/DynamicProgramming/LISplacingSoldiers.py) / [LISplacingSoldiers C++](/DynamicProgramming/LISplacingSoldiers.cpp) 
+ 
 
 
 
