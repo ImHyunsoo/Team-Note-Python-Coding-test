@@ -105,7 +105,7 @@
 * [에라토스테네스의 체 EratosthenesSieve python](/etcAlgorithm/EratosthenesSieve.py) / [EratosthenesSieve C++](/etcAlgorithm/EratosthenesSieve.cpp)
 * [투 포인터 2PTpartialContinuousSequence python](/etcAlgorithm/2PTpartialContinuousSequence.py) / [2PTpartialContinuousSequence C++](/etcAlgorithm/2PTpartialContinuousSequence.cpp)
 * [구간 합 빠르게 계산하기 intervalSum python](/etcAlgorithm/intervalSum.py) / [intervalSum C++](/etcAlgorithm/intervalSum.cpp)
-* [트리의 순회 TreeTraversal python](/etcAlgorithm/TreeTraversal.py) / [TreeTraversal C++](/etcAlgorithm/TreeTraversal.cpp)
+* [트리의 순회 TreeTraversal python](/etcAlgorithm/TreeTraversal.py)
 * [순열 permutation python](/etcAlgorithm/permutation.py) / [permutation C++](/etcAlgorithm/permutation.cpp)
 * [조합 Combination python](/etcAlgorithm/permutation.py) / [Combination C++](/etcAlgorithm/Combination.cpp)
 * [바이너리 인덱스 트리BIT, 팬윅 트리 Fenwick Tree BiIndexTree python](/etcAlgorithm/BiIndexTree.py) / [BiIndexTree C++](/etcAlgorithm/BiIndexTree.cpp)
