@@ -6,7 +6,7 @@
 ## Contents
 
 ### 시간 측정 함수 (Time)
-* [time python](/time/timeMeasure.py) [/] [time C++](/time/timeMeasure.cpp)
+* [time python](/time/timeMeasure.py) / [time C++](/time/timeMeasure.cpp)
 
 
 ### 랜던 함수 (Random)
