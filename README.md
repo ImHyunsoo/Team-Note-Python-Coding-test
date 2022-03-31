@@ -43,6 +43,15 @@
 * [BFS, 현재 큐 & 다음 큐, 가독성 좋음 bfsNextQ python](/DFS-BFS/bfsNextQ.py) 
 
 
+### 정렬 Sorting
+* [swap python](/sorting/swap.py) / [swap C++](/sorting/swap.py)
+* [표준 라이브러리 정렬 librarySort python](/sorting/librarySort.py) / [librarySort C++](/sorting/librarySort.py)
+* [딕셔너리 키 기준 정렬 keySort python](/sorting/keySort.py) / [keySort C++](/sorting/keySort.py)
+* [선택 정렬 selectionSort python](/sorting/selectionSort.py) / [selectionSort C++](/sorting/selectionSort.py)
+* [삽입 정렬 insertionSort python](/sorting/insertionSort.py) / [insertionSort C++](/sorting/insertionSort.py)
+* [퀵 정렬 quickSort python](/sorting/quickSort.py) / [quickSort C++](/sorting/quickSort.py)
+* [퀵 정렬, 파이썬 장점 살림, 가독성 좋음 quickSort2 python](/sorting/quickSort2.py)
+* [계수 정렬 countingSort python](/sorting/countingSort.py) / [countingSort C++](/sorting/countingSort.py)
 
 
 
